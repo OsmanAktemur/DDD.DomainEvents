@@ -9,3 +9,14 @@ C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD-DomainEvents\DDD-Domain
 C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD-DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.pdb
 C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD-DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.dll
 C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD-DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.pdb
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.deps.json
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.runtimeconfig.json
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.runtimeconfig.dev.json
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.dll
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\bin\Debug\netcoreapp2.0\DDD-DomainEvents.pdb
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.AssemblyInfo.cs
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.dll
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.pdb
+C:\Users\Osman\Desktop\EXERCIES-SILME!!!\DomainEvent\DDD.DomainEvents\DDD-DomainEvents\obj\Debug\netcoreapp2.0\DDD-DomainEvents.csprojResolveAssemblyReference.cache

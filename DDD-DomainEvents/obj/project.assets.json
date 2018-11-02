@@ -723,11 +723,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD-DomainEvents\\DDD-DomainEvents\\DDD-DomainEvents.csproj",
+      "projectUniqueName": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD.DomainEvents\\DDD-DomainEvents\\DDD-DomainEvents.csproj",
       "projectName": "DDD-DomainEvents",
-      "projectPath": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD-DomainEvents\\DDD-DomainEvents\\DDD-DomainEvents.csproj",
+      "projectPath": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD.DomainEvents\\DDD-DomainEvents\\DDD-DomainEvents.csproj",
       "packagesPath": "C:\\Users\\Osman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD-DomainEvents\\DDD-DomainEvents\\obj\\",
+      "outputPath": "C:\\Users\\Osman\\Desktop\\EXERCIES-SILME!!!\\DomainEvent\\DDD.DomainEvents\\DDD-DomainEvents\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -763,7 +763,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           }
         },
