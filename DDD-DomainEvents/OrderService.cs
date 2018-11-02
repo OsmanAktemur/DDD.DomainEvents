@@ -27,6 +27,7 @@ namespace DDD.DomainEvents
             });
 
 
+			
             Console.WriteLine("Doing some other stuffs...");
         }
     }
